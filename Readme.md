@@ -10,3 +10,10 @@ Prob-3 : https://jupiter.challenges.picoctf.org/problem/37821/
 Prob-4 : https://jupiter.challenges.picoctf.org/problem/13594/
 <br>
 Prob-5 : http://mercury.picoctf.net:54219/
+<br>
+Prob-6 : https://jupiter.challenges.picoctf.org/problem/64649/
+<br>
+Prob-7 : https://jupiter.challenges.picoctf.org/problem/33850/
+<br>
+username : admin '--
+password : password
