@@ -17,3 +17,5 @@ Prob-7 : https://jupiter.challenges.picoctf.org/problem/33850/
 <br>
 username : admin '--
 password : password
+<br>
+Prob-8 : https://jupiter.challenges.picoctf.org/problem/26704/
