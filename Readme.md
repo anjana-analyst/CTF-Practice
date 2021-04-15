@@ -21,3 +21,6 @@ username : admin '--
 password : password
 <br>
 Prob-8 : https://jupiter.challenges.picoctf.org/problem/26704/
+<br>
+Prob-9 : ..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...
+<br>
