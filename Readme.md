@@ -24,3 +24,6 @@ Prob-8 : https://jupiter.challenges.picoctf.org/problem/26704/
 <br>
 Prob-9 : ..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...
 <br>
+Prob-10 : http://mercury.picoctf.net:48380/
+<br>
+Solution : https://www.youtube.com/watch?v=2lf4mR_ZC2k
