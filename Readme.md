@@ -31,3 +31,5 @@ Prob-10 : http://mercury.picoctf.net:48380/
 Solution : https://www.youtube.com/watch?v=2lf4mR_ZC2k
 <br>
 Prob-11 : 41 42 43 54 46 7B 34 35 43 31 31 5F 31 35 5F 55 35 33 46 55 4C 7D
+<br>
+Prob-12 : Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
