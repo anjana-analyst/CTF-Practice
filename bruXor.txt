@@ -1,0 +1,6 @@
+q{vpln'bH_varHuebcrqxetrHOXEj
+
+Solution:
+https://gchq.github.io/CyberChef/
+
+XOR Brute force  -> input the key -> output search for the key
