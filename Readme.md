@@ -1,9 +1,16 @@
+
+<h3>Links</h3>
 https://stylesuxx.github.io/steganography/
+<br>
+https://noxtal.com/writeups/2020/12/03/ctflearn887/
+<br>
+https://www.boxentriq.com/code-breaking/playfair-cipher
 <br>
 https://en.wikipedia.org/wiki/International_maritime_signal_flags
 <br>
 https://github.com/HHousen/PicoCTF-2021/tree/6f9f20933e1ed467dbdfcdd7af027a06439e2d84/Forensics/Very%20very%20very%20Hidden
 
+<h3>Problems</h3>
 <br>
 Prob-1 : https://jupiter.challenges.picoctf.org/problem/36474/
 <br>
