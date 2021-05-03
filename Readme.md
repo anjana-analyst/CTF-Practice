@@ -1,4 +1,11 @@
-
+<h3>Cmd used for git is good ctf</h3>
+<br>
+git log
+<br>
+giff diff <commit1> <commit2>
+<br>
+grep
+<br>
 <h3>Links</h3>
 https://stylesuxx.github.io/steganography/
 <br>
