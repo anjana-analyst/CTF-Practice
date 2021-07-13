@@ -22,6 +22,10 @@ http://metapicz.com/#landing
 https://www.base64decode.org/
 <br>
 https://cryptii.com/pipes/caesar-cipher
+<br>
+https://www.nch.com.au/wavepad/index.html
+<br>
+https://futureboy.us/stegano/decinput.html
 
 <h3>Problems</h3>
 <br>
