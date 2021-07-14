@@ -26,6 +26,8 @@ https://cryptii.com/pipes/caesar-cipher
 https://www.nch.com.au/wavepad/index.html
 <br>
 https://futureboy.us/stegano/decinput.html
+<br>
+https://www.splitbrain.org/_static/ook/
 
 <h3>Problems</h3>
 <br>
