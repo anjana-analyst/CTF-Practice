@@ -9,6 +9,8 @@ grep
 <h3>Links</h3>
 https://stylesuxx.github.io/steganography/
 <br>
+http://xor.pw/#
+<br>
 https://noxtal.com/writeups/2020/12/03/ctflearn887/
 <br>
 https://www.boxentriq.com/code-breaking/playfair-cipher
